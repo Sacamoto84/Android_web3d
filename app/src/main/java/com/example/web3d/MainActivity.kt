@@ -36,7 +36,7 @@ var addrList = listOf(
     AddrItem("Console  ", "$addressFluidd/#/console", R.drawable.fluidd_console),
     AddrItem("Preview  ", "$addressFluidd/#/preview", R.drawable.fluidd_preview),
     AddrItem("Задание  ", "$addressFluidd/#/jobs", R.drawable.fluidd_job),
-    AddrItem("Mainsail", "http://192.168.0.111:7136", R.drawable.pretty),
+    AddrItem("Mainsail", "http://192.168.0.110:7136", R.drawable.pretty),
 )
 
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")

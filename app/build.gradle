@@ -67,7 +67,6 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     implementation(libs.androidx.appcompat)
 
-
     implementation("com.orhanobut:hawk:2.0.1")
     implementation 'com.google.code.gson:gson:2.11.0'
 
