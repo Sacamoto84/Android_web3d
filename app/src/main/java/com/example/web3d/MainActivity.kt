@@ -15,12 +15,8 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import com.example.web3d.ui.theme.Web3dTheme
 import com.orhanobut.hawk.Hawk
-
 data class AddrItem(val name: String, val ip: String, val id: Int)
-
 var screen by mutableIntStateOf(0)
-
-
 const val addressMainsail = "http://192.168.0.110:81"
 const val addressFluidd = "http://192.168.0.110:80"
 
